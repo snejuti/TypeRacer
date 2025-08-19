@@ -1,0 +1,11 @@
+cd backend
+    npm start
+
+//new terminal lena
+    cd  frontend
+        npm run  dev
+
+
+
+
+  
